@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "start": "node server"
+  },
   "dependencies": {
+    "express": "^4.16.3",
     "reveal": "^0.0.4"
   }
 }
